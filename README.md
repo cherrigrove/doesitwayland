@@ -1,3 +1,2 @@
 # Does it have wayland?
-GNOME	| KDE Plasma  | Cinnamon	     | Xfce	     |MATE |	LXQt |	Budgie	|  LXDE	         | Enlightment |	Deepin |	COSMIC
-✅46+	| ✅6.0+	    |⚠️Experimental	 | ✅4.20+	 |❌	 | ✅	   | ✅10.10+ |	❌Unmaintained |	❌WIP	     | ✅23+	 | ✅1.0+
+<img width="1123" height="42" alt="image" src="https://github.com/user-attachments/assets/f9f96d2a-1289-4c8e-b19f-326b61b0e337" />
